@@ -255,7 +255,7 @@ webvowl.app = function(e) {
                 function r() {
                     a(".text", [{
                         name: "font-family",
-                        value: "Helvetica, Arial, sans-serif"
+                        value: "Comic Sans, Arial, sans-serif"
                     }, {
                         name: "font-size",
                         value: "12px"
