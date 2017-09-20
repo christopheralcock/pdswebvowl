@@ -3451,7 +3451,7 @@ webvowl = function(t) {
         }
         var c, l, f, p, d, h, v, y = {},
             g = !0,
-            x = 50;
+            x = 1000000000;
         return y.initialize = function(r, o) {
             var i = e(r);
             d instanceof Function && d(i);
